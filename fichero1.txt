@@ -1,1 +1,2 @@
 este es un fichero de prueba
+linea 2
