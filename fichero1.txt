@@ -6,5 +6,3 @@ cambios de desarrollo
 cambio menor
 
 cambio nueva rama
-
-hola
